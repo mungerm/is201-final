@@ -1,0 +1,41 @@
+.bac{
+    background-image: url(https://exoplanets.nasa.gov/internal_resources/2069);
+}
+
+.font{
+    color: antiquewhite;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:25px;
+    position: relative; left: 770px; top: 190px;
+}
+.lis{
+    color: antiquewhite;
+    font-size: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative; left: 800px; top: 230px; 
+    
+    
+}
+
+.cover{
+    position: relative; bottom: 600px;
+}
+
+.cov{
+    position: relative; bottom: 895px; left: 300px;
+}
+
+.yt{
+    position: relative; bottom: 1000px; left: 1600px;
+}
+
+.pos{
+position: relative; left: 300px; bottom: 600px;
+}
+
+.but{
+    background-color:black; width: 90px;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:relative; left: 950px; top: 800px;
+}

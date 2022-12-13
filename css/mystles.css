@@ -1,0 +1,151 @@
+.mast{
+    position:relative;  top: 280px;
+}
+.mybody{
+    background-color: rgb(160, 8, 8);
+}
+.outerbody{
+    background-color: black;
+}
+
+.mytext{
+    color: darkgoldenrod;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    text-align: left;
+}
+
+.mytx{
+    color:antiquewhite;
+    font-family: initial;
+    font-weight: 200;
+    text-align: left;
+}
+
+.extra{
+    font-weight: bolder;
+    color:darkgoldenrod;
+ 
+}
+
+.feet{
+    color: darkred;
+   
+    width:auto;
+    font-size: large;
+    font-weight: 1000;
+    text-align: center;
+    font-family:initial;
+    position:relative;  top: 290px;
+}
+
+.poll{
+    margin: 0;
+    padding 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+.wrapper{
+    padding: 30px;
+    background: #fff;
+    max-width: 600px;
+    width: 100%;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.1);
+}
+
+.header{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.poll-area{
+    margin: 20px 0 15px 0
+}
+
+.label{
+display: block;
+margin-bottom: 10px;
+padding:8px 15px;
+border: 2px solid #e6e6e6;
+}
+
+.mom{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+}
+
+.first{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    text-align: right;
+    color: antiquewhite;
+}
+
+.et{
+    color: #e6e6e6;
+}
+
+.mom1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+position:relative; left: 80px; top: 80px;
+}
+
+.kl{
+    background-color: black;
+}
+
+.mk{
+    justify-content: left;
+    position: relative; right: 180px; top: 50px
+}
+
+.pix{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.foot{
+    color: black !important;
+  text-align: center;
+  position: relative; top: -10px;
+}
+
+.ao{
+    color: white;
+    position: relative; bottom: 620px; left: 300px;
+}
+
+.ill{
+    background-color: darkred;
+    margin: 100px;
+}
+.p{
+    color: white;
+  
+}
+
+.km{
+    position:relative; bottom: 550px;
+}
+
+.lo{
+    color: black !important;
+    margin-bottom: auto;
+}
+
+.bring{
+    position: relative; bottom: 500px;
+    margin-bottom: none;
+    text-align: center;
+}
+.size{
+    margin-bottom: -250px;
+}
+
+.fr{
+    margin-top: 100px;
+}
